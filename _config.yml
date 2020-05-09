@@ -6,3 +6,4 @@ title: Mikael Elmblad
 tagline: A log of everyday life
 description: My awesome new site
 paginate: 5
+theme: jekyll-theme-leap-day
